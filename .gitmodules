@@ -1,0 +1,6 @@
+[submodule "UOP-FrontEnd"]
+	path = UOP-FrontEnd
+	url = https://github.com/JdeJ/UOP-FrontEnd.git
+[submodule "UOP-BackEnd"]
+	path = UOP-BackEnd
+	url = https://github.com/JdeJ/UOP-BackEnd.git
